@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lujza Lanyi @lnyi
 - 👀 I’m interested in Medical Informatics
-- 🌱 I’m currently learning in university.
+- 🌱 Currently working at @at-pineit
 - 💞️ I’m looking to collaborate on Medical Informatics projects.
 - 📫 How to reach me: 
   Look for Lujza Lanyi
